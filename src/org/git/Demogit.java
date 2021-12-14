@@ -9,4 +9,8 @@ public class Demogit {
 		Demogit d=new Demogit();
 		d.add();
 	}
+	public void mul() {
+		System.out.println("mul");
+
+	}
 }
